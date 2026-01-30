@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sylhet Health Care Clinic",
+  "description": "A professional healthcare platform for Sylhet, Bangladesh, connecting patients with verified doctors and hospitals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
